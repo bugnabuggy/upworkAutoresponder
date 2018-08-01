@@ -1,0 +1,19 @@
+{
+  "presets": [
+    "es2015"    
+  ],
+  "env": {
+    "development": {
+      "presets": [
+        "es2015"
+      ]
+    },
+    "test": {
+      "presets": [
+        "es2015"
+      ]
+    }
+  },
+  "sourceMaps": true,
+  "comments": false
+}

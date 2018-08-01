@@ -1,0 +1,9 @@
+{
+  "userId": 10,
+  "timeLimit": 3,
+  "consumerKey": "",
+  "consumerSecret": "",
+  "accessToken": "",
+  "accessSecret": "",
+  "messageTemplate": "message"
+}
